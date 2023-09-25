@@ -1,0 +1,111 @@
+Bigram frequencies from Corpus 1 and Corpus 2 for n=2
+-----------------------------------------------------
+
+Top 50 bigrams from /content/drive/MyDrive/Text-mining/mini project 1/Corpus1/Corpus1:
+#index	#bigram	#frequency
+1	of the	17173
+2	in the	8621
+3	to the	5482
+4	and the	3656
+5	on the	3462
+6	for the	2998
+7	it is	2985
+8	4 est	2877
+9	that the	2867
+10	to be	2636
+11	by the	2614
+12	with the	2279
+13	project gutenberg	2135
+14	of a	2089
+15	at the	1919
+16	0 0000	1794
+17	new york	1767
+18	from the	1649
+19	000 000	1636
+20	united states	1583
+21	of this	1578
+22	in a	1484
+23	of money	1421
+24	the bank	1417
+25	as a	1391
+26	the same	1388
+27	is a	1385
+28	it was	1311
+29	the united	1274
+30	as the	1272
+31	is the	1207
+32	all the	1207
+33	per cent	1167
+34	have been	1148
+35	value of	1140
+36	would be	1081
+37	the stock	1077
+38	there is	1065
+39	has been	1046
+40	in this	1038
+41	may be	1025
+42	will be	995
+43	the money	907
+44	the country	884
+45	to a	877
+46	is not	875
+47	one of	873
+48	of his	855
+49	for a	850
+50	stock exchange	841
+
+
+Top 50 bigrams from /content/drive/MyDrive/Text-mining/mini project 1/Corpus2/Corpus2:
+#index	#bigram	#frequency
+1	of the	14376
+2	in the	9987
+3	to the	6789
+4	and the	4978
+5	on the	4730
+6	it was	4314
+7	to be	4096
+8	at the	3920
+9	he had	3841
+10	he was	3631
+11	with the	3092
+12	and i	3012
+13	in a	2998
+14	of his	2859
+15	that he	2789
+16	of a	2769
+17	for the	2744
+18	it is	2740
+19	with a	2632
+20	i am	2612
+21	from the	2573
+22	had been	2463
+23	don t	2430
+24	did not	2351
+25	i have	2320
+26	by the	2261
+27	was a	2198
+28	all the	2193
+29	and he	2135
+30	she was	2124
+31	project gutenberg	2111
+32	she had	2110
+33	in his	2087
+34	that i	2039
+35	of her	1994
+36	to her	1976
+37	out of	1927
+38	there was	1908
+39	i was	1906
+40	that the	1804
+41	he said	1795
+42	to him	1790
+43	to me	1725
+44	into the	1719
+45	could not	1712
+46	but i	1651
+47	it s	1617
+48	for a	1610
+49	him and	1580
+50	you are	1572
+
+
